@@ -1,5 +1,5 @@
 # Web-development-Course
-This is a Website of web-development course which is created by only HTML and few CSS properties. 
+This is a Website of web-development course which is created with only HTML and few CSS properties. 
 This projects focuses how we can structure a website into differnt sections and add an external link directly from YouTube using iframe tag.
 Website has 3 main sections and they are header,main and footer section.
 In header section there are two main headings.1:Apna College with in h1 tag and 2:Web Development Course in h2 tag in which both are aligned to center and a navigation bar.
